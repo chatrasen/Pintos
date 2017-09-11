@@ -1,2 +1,2 @@
 # Pintos 
-I have include new procedures for scheduling and memory management
+I have included new procedures for scheduling and memory management
